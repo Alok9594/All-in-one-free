@@ -1,0 +1,28 @@
+*{padding: 0px
+  margin:0px ;
+}
+ul{display: inline
+  margin :0;
+}
+ul li{list-style-type: none
+}
+b{color: brown}
+nav{padding: 0;
+margin:0;
+width: 1300px;
+height: 100px;
+  background: red;
+display: flex;
+align-items: center;
+border-radius :50px ;
+}
+img.logo{padding: 0;
+margin: 0;
+  width:100px;
+  height:100px;
+  border-radius :10px;
+  box-shadow: 8px 8px 8px blue;
+  cursor: pointer;
+}
+a{text-decoration: none}
+hr{height:2px;border-width:0;color:blue;background-color:green;width: 1300px;height: 2px}
